@@ -1,0 +1,436 @@
+﻿Build1=Default,FutsalID.example
+File1=AddRate(1).png
+File10=back.png
+File100=star.png
+File101=strip.png
+File102=SV_InsertKomen.bal
+File103=SV_InsertKomenEstadio.bal
+File104=SV_InsertKomenHalim.bal
+File105=SV_InsertKomenNext.bal
+File106=SV_InsertKomenTown.bal
+File107=SV_InsertKomenUnggul.bal
+File108=SV_InsertKomenViva.bal
+File109=tabstripBar.png
+File11=Booking.bal
+File110=Tanggal.png
+File111=Town.bal
+File112=town.png
+File113=Town_riview.png
+File114=Unggul.bal
+File115=unggul.png
+File116=unggul_riview(1).png
+File117=unggul_riview.png
+File118=user.png
+File119=user1.png
+File12=btnback.png
+File120=user2.png
+File121=user3.png
+File122=user4.png
+File123=user5.png
+File124=user6.png
+File125=Viva.bal
+File126=viva.png
+File127=Viva_riview(1).png
+File128=Viva_riview.png
+File129=Waktu.png
+File13=btnBooked.png
+File130=whatsapp.png
+File14=btnBookedClicked.png
+File15=btndirection(1).png
+File16=btndirection.png
+File17=btnInfo.png
+File18=btnInfoclicked.png
+File19=btnPesan(1).png
+File2=AddRate.png
+File20=btnPesan.png
+File21=btnRiview.png
+File22=btnRiviewClicked.png
+File23=btnVideo.png
+File24=btnVideoClicked.png
+File25=card.png
+File26=card1.png
+File27=DashboardMenu.bal
+File28=email(1).png
+File29=email(3).png
+File3=AddRiview(1).png
+File30=email.png
+File31=Estadio.bal
+File32=estadio.png
+File33=Estadio_riview(1).png
+File34=Estadio_riview.png
+File35=FutsalID.jpg
+File36=garis.png
+File37=Get Started.jpg
+File38=Halim.bal
+File39=halim.png
+File4=AddRiview.png
+File40=halim_riview.png
+File41=info.png
+File42=Lambang(1).png.jpg
+File43=Lambang.png.jpg
+File44=layCardRiview.bal
+File45=layfeed.bal
+File46=layInfo.bal
+File47=layInsertKomenAlibaba.bal
+File48=layInsertKomenEstadio.bal
+File49=layInsertKomenHalim.bal
+File5=Alibaba(Maps).PNG
+File50=layInsertKomenNext.bal
+File51=layInsertKomenTown.bal
+File52=layInsertKomenUnggul.bal
+File53=layInsertKomenViva.bal
+File54=layRiviewAlibaba.bal
+File55=layRiviewEstadio.bal
+File56=layRiviewHalim.bal
+File57=layRiviewNext.bal
+File58=layRiviewTown.bal
+File59=layRiviewUnggul.bal
+File6=Alibaba.bal
+File60=layRiviewViva.bal
+File61=Lokasi.png
+File62=map.png
+File63=Maps.png
+File64=Maps2.png
+File65=Next.bal
+File66=next.png
+File67=Next_riview(1).png
+File68=Next_riview.png
+File69=notification.png
+File7=alibaba.png
+File70=oke.png
+File71=Page1Alibaba.bal
+File72=Page1Estadio.bal
+File73=Page1Halim.bal
+File74=Page1Next.bal
+File75=Page1Town.bal
+File76=Page1Unggul.bal
+File77=Page1Viva.bal
+File78=pnl_SVAlibaba.bal
+File79=pnl_SVEstadio.bal
+File8=Alibaba_riview.png
+File80=pnl_SVHalim.bal
+File81=pnl_SVInfo.bal
+File82=pnl_SVNext.bal
+File83=pnl_SVriview.bal
+File84=pnl_SVRiviewAlibaba.bal
+File85=pnl_SVRiviewEstadio.bal
+File86=pnl_SVRiviewHalim.bal
+File87=pnl_SVRiviewNext.bal
+File88=pnl_SVRiviewTown.bal
+File89=pnl_SVRiviewUnggul.bal
+File9=AtasNama.png
+File90=pnl_SVRiviewViva.bal
+File91=pnl_SVTown.bal
+File92=pnl_SVUnggul.bal
+File93=pnl_SVViva.bal
+File94=pnlLV_tempatBooking.bal
+File95=Pukul.png
+File96=riview.png
+File97=scren.jpg
+File98=SlideMenu.bal
+File99=SplashScreen.bal
+FileGroup1=New Group
+FileGroup10=Default Group
+FileGroup100=New Group
+FileGroup101=Default Group
+FileGroup102=Default Group
+FileGroup103=Default Group
+FileGroup104=Default Group
+FileGroup105=Default Group
+FileGroup106=Default Group
+FileGroup107=Default Group
+FileGroup108=Default Group
+FileGroup109=Default Group
+FileGroup11=Default Group
+FileGroup110=Default Group
+FileGroup111=Default Group
+FileGroup112=Default Group
+FileGroup113=New Group
+FileGroup114=Default Group
+FileGroup115=Default Group
+FileGroup116=New Group
+FileGroup117=New Group
+FileGroup118=Default Group
+FileGroup119=Default Group
+FileGroup12=New Group
+FileGroup120=Default Group
+FileGroup121=Default Group
+FileGroup122=Default Group
+FileGroup123=Default Group
+FileGroup124=Default Group
+FileGroup125=Default Group
+FileGroup126=Default Group
+FileGroup127=New Group
+FileGroup128=New Group
+FileGroup129=Default Group
+FileGroup13=Default Group
+FileGroup130=Default Group
+FileGroup14=Default Group
+FileGroup15=New Group
+FileGroup16=New Group
+FileGroup17=Default Group
+FileGroup18=Default Group
+FileGroup19=Default Group
+FileGroup2=New Group
+FileGroup20=Default Group
+FileGroup21=Default Group
+FileGroup22=Default Group
+FileGroup23=Default Group
+FileGroup24=Default Group
+FileGroup25=New Group
+FileGroup26=New Group
+FileGroup27=Default Group
+FileGroup28=Default Group
+FileGroup29=Default Group
+FileGroup3=New Group
+FileGroup30=Default Group
+FileGroup31=Default Group
+FileGroup32=Default Group
+FileGroup33=New Group
+FileGroup34=New Group
+FileGroup35=Default Group
+FileGroup36=New Group
+FileGroup37=Default Group
+FileGroup38=Default Group
+FileGroup39=Default Group
+FileGroup4=New Group
+FileGroup40=New Group
+FileGroup41=Default Group
+FileGroup42=Default Group
+FileGroup43=Default Group
+FileGroup44=Default Group
+FileGroup45=Default Group
+FileGroup46=Default Group
+FileGroup47=Default Group
+FileGroup48=Default Group
+FileGroup49=Default Group
+FileGroup5=New Group
+FileGroup50=Default Group
+FileGroup51=Default Group
+FileGroup52=Default Group
+FileGroup53=Default Group
+FileGroup54=Default Group
+FileGroup55=Default Group
+FileGroup56=Default Group
+FileGroup57=Default Group
+FileGroup58=Default Group
+FileGroup59=Default Group
+FileGroup6=Default Group
+FileGroup60=Default Group
+FileGroup61=New Group
+FileGroup62=New Group
+FileGroup63=New Group
+FileGroup64=New Group
+FileGroup65=Default Group
+FileGroup66=Default Group
+FileGroup67=New Group
+FileGroup68=New Group
+FileGroup69=Default Group
+FileGroup7=Default Group
+FileGroup70=Default Group
+FileGroup71=Default Group
+FileGroup72=Default Group
+FileGroup73=Default Group
+FileGroup74=Default Group
+FileGroup75=Default Group
+FileGroup76=Default Group
+FileGroup77=Default Group
+FileGroup78=Default Group
+FileGroup79=Default Group
+FileGroup8=New Group
+FileGroup80=Default Group
+FileGroup81=Default Group
+FileGroup82=Default Group
+FileGroup83=Default Group
+FileGroup84=Default Group
+FileGroup85=Default Group
+FileGroup86=Default Group
+FileGroup87=Default Group
+FileGroup88=Default Group
+FileGroup89=Default Group
+FileGroup9=Default Group
+FileGroup90=Default Group
+FileGroup91=Default Group
+FileGroup92=Default Group
+FileGroup93=Default Group
+FileGroup94=Default Group
+FileGroup95=New Group
+FileGroup96=New Group
+FileGroup97=New Group
+FileGroup98=Default Group
+FileGroup99=Default Group
+Group=Default Group
+Library1=core
+Library10=mscircularimageview
+Library11=runtimepermissions
+Library12=dialogs
+Library13=backgroundmail
+Library14=googlemaps
+Library15=slidingmenuwrapper
+Library2=appcompat
+Library3=animation
+Library4=reflection
+Library5=okhttputils2
+Library6=viewsex
+Library7=randomaccessfile
+Library8=tabstripviewpager
+Library9=javaobject
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: https://www.b4x.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="5" android:targetSdkVersion="26"/>~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~'End of default text.~\n~SetApplicationAttribute(android:theme, "@style/Theme")~\n~CreateResource(values, theme.xml,~\n~<resources>~\n~	<style name="Theme" parent="Theme.AppCompat.Light.NoActionBar">~\n~		<item name="colorPrimaryDark">#BAF1FC</item>~\n~		<item name="windowNoTitle">true</item>~\n~		<item name="windowActionBar">false</item>~\n~	</style>~\n~</resources>~\n~)~\n~~\n~AddApplicationText(<meta-data~\n~  android:name="com.google.android.maps.v2.API_KEY"~\n~  android:value="AIzaSyDtbodJKfH8kkJO8GSGy5yLG-oWoR7ln_Q"/>~\n~   <meta-data android:name="com.google.android.gms.version"~\n~   android:value="@integer/google_play_services_version" />~\n~)
+Module1=Alibaba
+Module10=Next_1
+Module11=Riview
+Module12=Starter
+Module13=TempatFutsal
+Module14=Town
+Module15=Unggul
+Module16=util
+Module17=Viva
+Module2=Booking
+Module3=Charts
+Module4=DateDialogs
+Module5=DBRequestManager
+Module6=Estadio
+Module7=Feed
+Module8=Halim
+Module9=Info
+NumberOfFiles=130
+NumberOfLibraries=15
+NumberOfModules=17
+Version=9.801
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: Futsal ID
+	#VersionCode: 1
+	#VersionName: 
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: False
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: False
+#End Region
+#Extends : android.support.v7.app.AppCompatActivity
+#BridgeLogger : true
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+	Type DBResult (Tag As Object, Columns As Map, Rows As List)
+	Type DBCommand (Name As String, Parameters() As Object)
+	Public const rdcLink As String = "http://192.168.1.5:17178/rdc"
+
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+
+	Private btnBar As Button
+	Private pnlMenu As Panel
+	Dim sm As SlidingMenu
+	Private ListView1 As ListView
+	Private btnBooked As Button
+	Private btnRiview As Button
+	
+	'gambar akun
+	Dim pic() As String
+	Dim count As Int
+	Private btnVIdeo As Button
+	
+	'ini buat screen
+	Dim ImageView1 As ImageView
+	Dim count As Int
+	Dim obj As Reflector
+	Dim timer1 As Timer
+	'sampai sini
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+	If FirstTime Then
+		Activity.LoadLayout("SplashScreen")
+		timer1.Initialize("timer1",40)
+		timer1.Enabled=True
+		count=0
+		obj.Target=ImageView1.Background
+		obj.RunMethod2("setAlpha",0,"java.lang.int")
+	End If
+	
+	
+End Sub
+
+Sub timer1_Tick
+	count = count +3
+	obj.RunMethod2("setAlpha",Min(count,255),"java.lang.int")
+	If count > 314 Then timer1_end
+End Sub
+
+Sub timer1_end
+	timer1.Enabled=False
+	Activity.LoadLayout("DashboardMenu")
+	GetKomen
+	
+	Dim bitmap1 As Bitmap
+	Dim bitmap2 As Bitmap
+	Dim bitmap3 As Bitmap
+	
+	sm.Initialize("sm")
+	sm.Mode = sm.LEFT
+	sm.BehindOffset = 70dip
+	
+	pnlMenu.Initialize("")
+	sm.Menu.AddView(pnlMenu,0,0,100%x,100%y)
+	pnlMenu.LoadLayout("SlideMenu")
+
+	ListView1.TwoLinesAndBitmap.Label.TextColor = Colors.Black
+	ListView1.TwoLinesAndBitmap.SecondLabel.Height = 100
+	ListView1.TwoLinesAndBitmap.Label.TextSize = 15
+	ListView1.TwoLinesAndBitmap.SecondLabel.TextSize = 13
+	pic =Array As String ("user1.png","user2.png", "user3.png","user4.png","user5.png","user6.png")
+End Sub
+
+Sub Activity_Resume
+
+End Sub
+
+
+
+Sub Activity_Pause (UserClosed As Boolean)
+
+End Sub
+Sub GetKomen
+	Dim req As DBRequestManager = util.CreateRequest(Me)
+	Dim cmd As DBCommand = util.CreateCommand("GetAllBook",Null)
+	Wait For(req.ExecuteQuery(cmd,0,Null)) JobDone(j As HttpJob)
+	If j.Success Then
+		req.HandleJobAsync(j,"req")
+		Wait For(req) req_Result(res As DBResult)
+		For Each row() As Object In res.Rows
+			count = Rnd(0,5)
+			ListView1.AddTwoLinesAndBitmap(row(0) ,row(3) & " (" & row(2) & " jam" & " )" & " (" & row(1) & " )",LoadBitmap(File.DirAssets, pic(count)))
+		Next
+	Else
+		Log(j.ErrorMessage)
+	End If
+	j.Release
+	CallSub(Booking,"cek")
+End Sub
+
+Sub btnBar_Click
+	sm.ShowMenu
+End Sub
+
+
+Sub btnBooked_Click
+	StartActivity(Booking)
+End Sub
+
+Sub btnRiview_Click
+	StartActivity(Riview)
+End Sub
+
+Sub btnVIdeo_Click
+	StartActivity(Feed)
+End Sub
